@@ -9,7 +9,7 @@
             <input type="submit" name="submit" value="Camara Secreta" style="width: 40%; height: 100px; font-size: 2em;">
         </form>
         <br> <br>
-        <form action="" method="POST">
+        <form action="Calculadora1.php" method="POST">
             <input type="submit" name="submit" value="Calculadora" style="width: 40%; height: 100px; font-size: 2em;">
         </form>
         <br> <br> <br>
